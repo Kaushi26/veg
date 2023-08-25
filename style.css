@@ -1,0 +1,12 @@
+@media screen and (min-width:600px) {
+    body {
+      color: red;
+    }
+}
+
+@media screen and (orientation: landscape) {
+  body {
+    background-color: azure;
+    color: blue;
+  }
+}
